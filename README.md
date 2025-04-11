@@ -2,7 +2,7 @@
 
 ## 🔍 Project Output Preview
 
-### ✅ Output 1
+### ✅ Idle State – No Input Provided
 ![Output 1](Screenshot%202025-04-11%20144021.png)
 
 ### ✅ Output 2
